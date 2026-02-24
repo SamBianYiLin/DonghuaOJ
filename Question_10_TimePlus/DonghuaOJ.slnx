@@ -3,5 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="../Question_13_FactNumOf5/Question_13_FactNumOf5.vcxproj" Id="d16648eb-12f8-499c-8800-a3a82598f150" />
+  <Project Path="../Question_14_StrangeNumber/Question_14_StrangeNumber.vcxproj" Id="7e97b162-91c5-4c75-bd73-4259295dd864" />
+  <Project Path="../Question_15_ABCNumber/Question_15_ABCNumber.vcxproj" Id="da7f29bd-c585-4757-90eb-cf9154790ebd" />
   <Project Path="Question_10_TimePlus.vcxproj" Id="47af9aab-0c36-40fa-8e29-e9775708ec2c" />
 </Solution>
