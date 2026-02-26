@@ -13,5 +13,8 @@
   <Project Path="../Question_20_FormulaSolution/Question_20_FormulaSolution.vcxproj" Id="f31fc562-6ed0-4d84-9778-77a7ba168a53" />
   <Project Path="../Question_21_Accumulative/Question_21_Accumulative.vcxproj" Id="df711d24-65c9-4eae-a465-7819d00f28d1" />
   <Project Path="../Question_22_JosephCircle2/Question_22_JosephCircle2.vcxproj" Id="0c189efe-e3eb-4d55-8189-f698e8dd241f" />
+  <Project Path="../Question_23_RemainderOfDivision/Question_23_RemainderOfDivision.vcxproj" Id="5b26bd0b-359f-4913-9b8d-38c6aa620cda" />
+  <Project Path="../Question_24_ParlindromicPrime/Question_24_ParlindromicPrime.vcxproj" Id="ae3ad80a-95ad-4c70-9aa1-7d1f21d9230a" />
+  <Project Path="../Question_24_ParlindromicPrime_Faster/Question_24_ParlindromicPrime_Faster.vcxproj" Id="760a1246-024e-4c90-b0fb-452e915ea740" />
   <Project Path="Question_10_TimePlus.vcxproj" Id="47af9aab-0c36-40fa-8e29-e9775708ec2c" />
 </Solution>
