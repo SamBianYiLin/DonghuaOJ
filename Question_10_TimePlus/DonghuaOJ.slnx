@@ -6,5 +6,12 @@
   <Project Path="../Question_13_FactNumOf5/Question_13_FactNumOf5.vcxproj" Id="d16648eb-12f8-499c-8800-a3a82598f150" />
   <Project Path="../Question_14_StrangeNumber/Question_14_StrangeNumber.vcxproj" Id="7e97b162-91c5-4c75-bd73-4259295dd864" />
   <Project Path="../Question_15_ABCNumber/Question_15_ABCNumber.vcxproj" Id="da7f29bd-c585-4757-90eb-cf9154790ebd" />
+  <Project Path="../Question_16_StrangeRatio/Question_16_StrangeRatio.vcxproj" Id="5f995671-85f2-41a0-92c6-9747ae0eec2d" />
+  <Project Path="../Question_17_TheMultipleOfT-N/Question_17_TheMultipleOfT-N.vcxproj" Id="78e13909-baf2-4178-8bb4-86d0fffdc15e" />
+  <Project Path="../Question_18_Triangle/Question_18_Triangle.vcxproj" Id="45ab2cd0-472a-4373-ae44-a010c5292482" />
+  <Project Path="../Question_19_DigitStringHandling/Question_19_DigitStringHandling.vcxproj" Id="81e4e2e6-6493-4bdb-8ac7-16b6251bec5d" />
+  <Project Path="../Question_20_FormulaSolution/Question_20_FormulaSolution.vcxproj" Id="f31fc562-6ed0-4d84-9778-77a7ba168a53" />
+  <Project Path="../Question_21_Accumulative/Question_21_Accumulative.vcxproj" Id="df711d24-65c9-4eae-a465-7819d00f28d1" />
+  <Project Path="../Question_22_JosephCircle2/Question_22_JosephCircle2.vcxproj" Id="0c189efe-e3eb-4d55-8189-f698e8dd241f" />
   <Project Path="Question_10_TimePlus.vcxproj" Id="47af9aab-0c36-40fa-8e29-e9775708ec2c" />
 </Solution>
