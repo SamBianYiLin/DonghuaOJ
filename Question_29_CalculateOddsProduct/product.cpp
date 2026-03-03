@@ -4,15 +4,13 @@
 using namespace std;
 int main() {
 	int n;
-	scanf("%d\n", &n);
+	scanf("%d", &n);
 	int product = 1;
-	vector<int> numSerial(n);
+	vector<int> numSerial;
 	for (int i = 0; i < n; i++)
 	{
 		int num;
 		scanf("%d", &num);
-		char c;
-		scanf("%c",&c);
 		numSerial.push_back(num);
 	}
 	vector<int>::iterator it;
@@ -24,7 +22,6 @@ int main() {
 			continue;
 		}
 	}
-
 	printf("%d\n", product);
 	return 0;
 }
