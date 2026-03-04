@@ -21,5 +21,16 @@
   <Project Path="../Question_27_CalculateVegetablePrice/Question_27_CalculateVegetablePrice.vcxproj" Id="525b6825-d1d6-4cff-b3d1-306bed79de99" />
   <Project Path="../Question_28_FruitPrice/Question_28_FruitPrice.vcxproj" Id="b8f98463-fc81-4a5f-9a69-40834a86eb09" />
   <Project Path="../Question_29_CalculateOddsProduct/Question_29_CalculateOddsProduct.vcxproj" Id="b38d0dab-0abe-4f09-b22d-ef6dd72d4c0b" />
+  <Project Path="../Question_30_CalEarliestAndLatestDate/Question_30_CalEarliestAndLatestDate.vcxproj" Id="658c2fd3-c8c9-41aa-8a1e-3a1a383c850b" />
+  <Project Path="../Question_31_IsPrimeNumber/Question_31_IsPrimeNumber.vcxproj" Id="d7ccd64b-e0a5-41fd-a0d6-f65f013a731f" />
+  <Project Path="../Question_32_Calculate_e/Question_32_Calculate_e.vcxproj" Id="f2aebe69-4b58-4e32-93d7-b524e4ea1f6e" />
+  <Project Path="../Question_33_SumOfNum/Question_33_SumOfNum.vcxproj" Id="10089e0a-b069-4e8e-9fce-650ac42f00df" />
+  <Project Path="../Question_34_ReproductionIssues/Question_34_ReproductionIssues.vcxproj" Id="29abcf4b-4282-48f4-aa9c-e487633ebe31" />
+  <Project Path="../Question_35_AmazingDigits/Question_35_AmazingDigits.vcxproj" Id="19b7a2d3-af14-42f2-ba68-94bd49233329" />
+  <Project Path="../Question_36_TailDigitOfFullDivision/Question_36_TailDigitOfFullDivision.vcxproj" Id="de1829be-c6c1-4d7e-9fde-d1334133a643" />
+  <Project Path="../Question_37_BlackFriday/Question_37_BlackFriday.vcxproj" Id="8b600284-f608-46d3-acb3-9ca39eee6df2" />
+  <Project Path="../Question_38_CalculateRestTrees/Question_38_CalculateRestTrees.vcxproj" Id="06a74adc-816d-4454-b0a2-d08eff1a86ef" />
+  <Project Path="../Question_39_MinAndMax/Question_39_MinAndMax.vcxproj" Id="b76adb43-89a5-49bb-9efe-ec299112fc9d" />
+  <Project Path="../Question_40_CircleGame/Question_40_CircleGame.vcxproj" Id="62a806b8-41b0-4402-a5c2-34e9b6e1037c" />
   <Project Path="Question_10_TimePlus.vcxproj" Id="47af9aab-0c36-40fa-8e29-e9775708ec2c" />
 </Solution>
