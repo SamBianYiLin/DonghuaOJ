@@ -32,5 +32,17 @@
   <Project Path="../Question_38_CalculateRestTrees/Question_38_CalculateRestTrees.vcxproj" Id="06a74adc-816d-4454-b0a2-d08eff1a86ef" />
   <Project Path="../Question_39_MinAndMax/Question_39_MinAndMax.vcxproj" Id="b76adb43-89a5-49bb-9efe-ec299112fc9d" />
   <Project Path="../Question_40_CircleGame/Question_40_CircleGame.vcxproj" Id="62a806b8-41b0-4402-a5c2-34e9b6e1037c" />
+  <Project Path="../Question_41_CircleGame_Real/Question_41_CircleGame_Real.vcxproj" Id="b30b6951-3f35-47b9-a4df-41f5b9066a8d" />
+  <Project Path="../Question_42_CalculateArrayEachDigit/Question_42_CalculateArrayEachDigit.vcxproj" Id="ef0ba7ba-fece-4c44-a19b-2bf6df2a5b95" />
+  <Project Path="../Question_43_HighestFrequency/Question_43_HighestFrequency.vcxproj" Id="208bbb00-f118-43bd-8845-37676db2cd5f" />
+  <Project Path="../Question_44_CalculateBoatsDistance/Question_44_CalculateBoatsDistance.vcxproj" Id="b2fc7081-984b-4903-9aa2-41bad3336877" />
+  <Project Path="../Question_45_CalculatePalindromic/Question_45_CalculatePalindromic.vcxproj" Id="f1ac02e3-8484-48a6-a3bf-5430a744bb5e" />
+  <Project Path="../Question_46_SpecialFourDigits/Question_46_SpecialFourDigits.vcxproj" Id="ac39aa6a-05f2-4189-ba9f-29329d80743e" />
+  <Project Path="../Question_47_FindMaximumValue/Question_47_FindMaximumValue.vcxproj" Id="7f88667e-e44d-4ea9-8c13-031c37931221" />
+  <Project Path="../Question_48_ArrayOne/Question_48_ArrayOne.vcxproj" Id="f62d30f7-ef01-4ded-8825-0c8ef51f842c" />
+  <Project Path="../Question_49_FixCattleShed/Question_49_FixCattleShed.vcxproj" Id="4a6f18b5-fb7c-4904-864d-b3bc0492ac2d" />
+  <Project Path="../Question_50_OutputSpecificSerial/Question_50_OutputSpecificSerial.vcxproj" Id="db46a166-5823-4982-a146-0d1a07f73544" />
+  <Project Path="../Question_51_TribalMultipleMethod/Question_51_TribalMultipleMethod.vcxproj" Id="0b988fa6-b74c-4f21-9ab2-c51bc3ebcbee" />
+  <Project Path="../Question_52_LoadBallsToBoxs/Question_52_LoadBallsToBoxs.vcxproj" Id="5682aa16-348e-49e2-9bf8-92753a5832d2" />
   <Project Path="Question_10_TimePlus.vcxproj" Id="47af9aab-0c36-40fa-8e29-e9775708ec2c" />
 </Solution>

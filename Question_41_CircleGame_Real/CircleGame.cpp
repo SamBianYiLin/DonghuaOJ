@@ -14,7 +14,7 @@ int Pow(int pow) {
 			times *= 10;
 		}
 		return times;
-	}	
+	}
 }
 int main() {
 	int n;
@@ -27,7 +27,7 @@ int main() {
 		for (int j = 0; j < 9; j++)
 		{
 			int temp;
-			scanf("%d",&temp);
+			scanf("%d", &temp);
 			numSerial.push_back(temp);
 		}
 		for (int i = 0; i < 9; i++)
@@ -46,7 +46,7 @@ int main() {
 			countTimes = 0;
 			/*for (int j = i + 9; countTimes < 9; j--)
 			{
-				
+
 				reverse_int += numSerial[(9 - j)%9] * Pow(pow - (17 - j));
 				countTimes++;
 			}*/
