@@ -44,5 +44,10 @@
   <Project Path="../Question_50_OutputSpecificSerial/Question_50_OutputSpecificSerial.vcxproj" Id="db46a166-5823-4982-a146-0d1a07f73544" />
   <Project Path="../Question_51_TribalMultipleMethod/Question_51_TribalMultipleMethod.vcxproj" Id="0b988fa6-b74c-4f21-9ab2-c51bc3ebcbee" />
   <Project Path="../Question_52_LoadBallsToBoxs/Question_52_LoadBallsToBoxs.vcxproj" Id="5682aa16-348e-49e2-9bf8-92753a5832d2" />
+  <Project Path="../Question_53_DoublePalindromicNumber/Question_53_DoublePalindromicNumber.vcxproj" Id="b67fb3dc-73fb-4aef-a675-834de1199416" />
+  <Project Path="../Question_54_ArithmeticArray/Question_54_ArithmeticArray.vcxproj" Id="a04df714-890e-454a-bb6f-1bd0841c4ae1" />
+  <Project Path="../Question_55_WeAllLoveA-B/Question_55_WeAllLoveA-B.vcxproj" Id="a02840d0-4c7d-428e-bbec-f43f6dd25eb5" />
+  <Project Path="../Question_56_MissleDefeatSystem/Question_56_MissleDefeatSystem.vcxproj" Id="711b4ea2-0236-41d3-a62e-79a425188d01" />
+  <Project Path="../TempTestCodes/TempTestCodes.vcxproj" Id="ab2f9321-889f-44d3-b64d-39280c583e2a" />
   <Project Path="Question_10_TimePlus.vcxproj" Id="47af9aab-0c36-40fa-8e29-e9775708ec2c" />
 </Solution>

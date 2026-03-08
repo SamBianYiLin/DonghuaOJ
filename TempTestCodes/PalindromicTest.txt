@@ -1,0 +1,19 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include<stdio.h>
+using namespace std;
+int main() {
+	int num = 12321;
+	int origin = num;
+	int reverse = 0;
+	while (num > 0) {
+		reverse = reverse * 10 + num % 10;
+		num /= 10;
+	}
+	if (reverse == origin) {
+		printf("true\n");
+	}
+	else {
+		printf("false\n");
+	}
+	return 0;
+}
