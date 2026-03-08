@@ -48,6 +48,21 @@
   <Project Path="../Question_54_ArithmeticArray/Question_54_ArithmeticArray.vcxproj" Id="a04df714-890e-454a-bb6f-1bd0841c4ae1" />
   <Project Path="../Question_55_WeAllLoveA-B/Question_55_WeAllLoveA-B.vcxproj" Id="a02840d0-4c7d-428e-bbec-f43f6dd25eb5" />
   <Project Path="../Question_56_MissleDefeatSystem/Question_56_MissleDefeatSystem.vcxproj" Id="711b4ea2-0236-41d3-a62e-79a425188d01" />
+  <Project Path="../Question_57_CalLargeNumFact/Question_57_CalLargeNumFact.vcxproj" Id="fa655620-fedd-4bd2-9a06-1a37042a3d90" />
+  <Project Path="../Question_58_PrimNumberTable/Question_58_PrimNumberTable.vcxproj" Id="b2339d02-254d-4948-a3e0-9bca8b3a51ff" />
+  <Project Path="../Question_59_ReciprocalSequence/Question_59_ReciprocalSequence.vcxproj" Id="63dfe453-ecd6-4620-9cca-7fdd5c17aa49" />
+  <Project Path="../Question_60_CalPermutation/Question_60_CalPermutation.vcxproj" Id="43167f2c-0ee8-4454-9d43-6ac8a40d7730" />
+  <Project Path="../Question_61_CalAmicableNumber/Question_61_CalAmicableNumber.vcxproj" Id="6f610bf1-dddf-4722-8a94-f07acc5dc2cc" />
+  <Project Path="../Question_62_SumOfPrimeNum/Question_62_SumOfPrimeNum.vcxproj" Id="7ca30193-7f74-48f2-82d5-19406b364dc6" />
+  <Project Path="../Question_63_Goldbach'sConjecture/Question_63_Goldbach'sConjecture.vcxproj" Id="3d6eac7a-e053-42a0-8bdd-74a2f9fcc597" />
+  <Project Path="../Question_64_TimesOfN/Question_64_TimesOfN.vcxproj" Id="6a909733-6756-462b-a5f1-274c696396cc" />
+  <Project Path="../Question_65_CalNextNDays/Question_65_CalNextNDays.vcxproj" Id="982212f5-e825-42ab-bffc-25bc6c6719cb" />
+  <Project Path="../Question_66_PrintRhombus/Question_66_PrintRhombus.vcxproj" Id="8ad8df64-7ba0-4a8b-991d-6d7c75e806c9" />
+  <Project Path="../Question_67_CalNumOfTriangle/Question_67_CalNumOfTriangle.vcxproj" Id="c5586d1c-7fe8-479f-a75b-bd39baeba563" />
+  <Project Path="../Question_68_CalRangePrimeNum/Question_68_CalRangePrimeNum.vcxproj" Id="fc0ca294-4707-4459-9e67-f5e9251bb39a" />
+  <Project Path="../Question_69_YangHuiTriangle/Question_69_YangHuiTriangle.vcxproj" Id="32883086-4539-413b-bf99-4f19cbf4f284" />
+  <Project Path="../Question_70_MatrixRelatedQuestion/Question_70_MatrixRelatedQuestion.vcxproj" Id="cc4b2be8-5218-4e05-9d2e-c77102e0498e" />
+  <Project Path="../Question_71_DeliverCards/Question_71_DeliverCards.vcxproj" Id="19231da3-9977-42ee-95c8-d0b92bc901bc" />
   <Project Path="../TempTestCodes/TempTestCodes.vcxproj" Id="ab2f9321-889f-44d3-b64d-39280c583e2a" />
   <Project Path="Question_10_TimePlus.vcxproj" Id="47af9aab-0c36-40fa-8e29-e9775708ec2c" />
 </Solution>
