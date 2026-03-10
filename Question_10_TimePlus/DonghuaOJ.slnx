@@ -73,6 +73,17 @@
   <Project Path="../Question_79_SpecialArray/Question_79_SpecialArray.vcxproj" Id="319c4e8e-834e-4b6d-a645-1cea1d162125" />
   <Project Path="../Question_80_FeedMixture/Question_80_FeedMixture.vcxproj" Id="cf764b48-9a0b-4ab0-9c13-b7f706019579" />
   <Project Path="../Question_81_CalDecimalDigitNum/Question_81_CalDecimalDigitNum.vcxproj" Id="2a8b2754-346d-4d3a-9779-4f0eac6d43de" />
+  <Project Path="../Question_82_BaseConvert/Question_82_BaseConvert.vcxproj" Id="cd971e67-79d4-43e5-8b11-d2b9a4aea799" />
+  <Project Path="../Question_83_CalculateExpressionValue/Question_83_CalculateExpressionValue.vcxproj" Id="405ac044-3cc3-4a87-b1e2-c57d3f52e52c" />
+  <Project Path="../Question_84_DeleteChar/Question_84_DeleteChar.vcxproj" Id="0265067f-71a8-47bf-aff3-e5b3a0cb55ab" />
+  <Project Path="../Question_85_ShortPhoneNumber/Question_85_ShortPhoneNumber.vcxproj" Id="c8c9b6db-d421-4c5d-86e8-e08579d56ad4" />
+  <Project Path="../Question_86_StatisticOfLowercaseLetter/Question_86_StatisticOfLowercaseLetter.vcxproj" Id="d0d0c30b-5d18-4b4b-8146-efc86ce74407" />
+  <Project Path="../Question_87_Brother'sHomework/Question_87_Brother'sHomework.vcxproj" Id="4009ff48-7d82-4840-b504-e1592568aedf" />
+  <Project Path="../Question_88_StringSort/Question_88_StringSort.vcxproj" Id="185a2f07-7f2c-45c8-b836-60e6a7864f0e" />
+  <Project Path="../Question_89_StringPalindromic/Question_89_StringPalindromic.vcxproj" Id="035bcd92-acfd-489f-8597-6b547bf0c940" />
+  <Project Path="../Question_90_FindIntegerInString/Question_90_FindIntegerInString.vcxproj" Id="144ee751-5b13-49c5-aaa1-e49925881fde" />
+  <Project Path="../Question_91_TableTennisRule/Question_91_TableTennisRule.vcxproj" Id="232d3c00-4300-4733-851d-2ef7f0a208f2" />
+  <Project Path="../Question_92_StringStatistics/Question_92_StringStatistics.vcxproj" Id="dde2f1e8-1f4c-4627-ab71-de39334b8b13" />
   <Project Path="../TempTestCodes/TempTestCodes.vcxproj" Id="ab2f9321-889f-44d3-b64d-39280c583e2a" />
   <Project Path="Question_10_TimePlus.vcxproj" Id="47af9aab-0c36-40fa-8e29-e9775708ec2c" />
 </Solution>
