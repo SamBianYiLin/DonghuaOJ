@@ -63,6 +63,16 @@
   <Project Path="../Question_69_YangHuiTriangle/Question_69_YangHuiTriangle.vcxproj" Id="32883086-4539-413b-bf99-4f19cbf4f284" />
   <Project Path="../Question_70_MatrixRelatedQuestion/Question_70_MatrixRelatedQuestion.vcxproj" Id="cc4b2be8-5218-4e05-9d2e-c77102e0498e" />
   <Project Path="../Question_71_DeliverCards/Question_71_DeliverCards.vcxproj" Id="19231da3-9977-42ee-95c8-d0b92bc901bc" />
+  <Project Path="../Question_72_DigitPyramid/Question_72_DigitPyramid.vcxproj" Id="701a070c-ad03-4193-8ac8-a40bf004a4df" />
+  <Project Path="../Question_73_SparseMatrix/Question_73_SparseMatrix.vcxproj" Id="18ef657e-4a96-4acd-b788-6ff80d1d9d20" />
+  <Project Path="../Question_74_MatrixTransfer/Question_74_MatrixTransfer.vcxproj" Id="e184c7cd-3db8-4970-9f12-53503bfb7425" />
+  <Project Path="../Question_75_MagicCubeMatrix/Question_75_MagicCubeMatrix.vcxproj" Id="145700d3-c55a-464d-b08f-c9e022765924" />
+  <Project Path="../Question_76_MaxEffect/Question_76_MaxEffect.vcxproj" Id="20550cd7-142f-410b-b6e8-eb67023defa5" />
+  <Project Path="../Question_77_CircleMatrix/Question_77_CircleMatrix.vcxproj" Id="37fcc2af-b35c-4ae8-8d9f-faca5488837b" />
+  <Project Path="../Question_78_CubeTransfer/Question_78_CubeTransfer.vcxproj" Id="1d29780a-80fb-4821-b4d7-c1588183dfaf" />
+  <Project Path="../Question_79_SpecialArray/Question_79_SpecialArray.vcxproj" Id="319c4e8e-834e-4b6d-a645-1cea1d162125" />
+  <Project Path="../Question_80_FeedMixture/Question_80_FeedMixture.vcxproj" Id="cf764b48-9a0b-4ab0-9c13-b7f706019579" />
+  <Project Path="../Question_81_CalDecimalDigitNum/Question_81_CalDecimalDigitNum.vcxproj" Id="2a8b2754-346d-4d3a-9779-4f0eac6d43de" />
   <Project Path="../TempTestCodes/TempTestCodes.vcxproj" Id="ab2f9321-889f-44d3-b64d-39280c583e2a" />
   <Project Path="Question_10_TimePlus.vcxproj" Id="47af9aab-0c36-40fa-8e29-e9775708ec2c" />
 </Solution>
