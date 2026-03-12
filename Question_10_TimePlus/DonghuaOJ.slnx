@@ -3,6 +3,11 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="../Question_100_PureCompositeNumber/Question_100_PureCompositeNumber.vcxproj" Id="659e67ef-0db3-4d96-ba82-7354a437aad1" />
+  <Project Path="../Question_101_FindPrimeNumber/Question_101_FindPrimeNumber.vcxproj" Id="67fb0335-4cab-4c86-b874-5cfe50f7fd13" />
+  <Project Path="../Question_102_TranslateStringPassword/Question_102_TranslateStringPassword.vcxproj" Id="f63b3050-5886-4562-95ee-530ba63e1427" />
+  <Project Path="../Question_103_SplitNumberSeqAndSort/Question_103_SplitNumberSeqAndSort.vcxproj" Id="b8f4fbc5-2e2f-4678-8f5c-217796d37f17" />
+  <Project Path="../Question_104_IsAequalsB/Question_104_IsAequalsB.vcxproj" Id="55b68d5e-a026-461f-85bf-447f3c64eef5" />
   <Project Path="../Question_13_FactNumOf5/Question_13_FactNumOf5.vcxproj" Id="d16648eb-12f8-499c-8800-a3a82598f150" />
   <Project Path="../Question_14_StrangeNumber/Question_14_StrangeNumber.vcxproj" Id="7e97b162-91c5-4c75-bd73-4259295dd864" />
   <Project Path="../Question_15_ABCNumber/Question_15_ABCNumber.vcxproj" Id="da7f29bd-c585-4757-90eb-cf9154790ebd" />
@@ -84,6 +89,13 @@
   <Project Path="../Question_90_FindIntegerInString/Question_90_FindIntegerInString.vcxproj" Id="144ee751-5b13-49c5-aaa1-e49925881fde" />
   <Project Path="../Question_91_TableTennisRule/Question_91_TableTennisRule.vcxproj" Id="232d3c00-4300-4733-851d-2ef7f0a208f2" />
   <Project Path="../Question_92_StringStatistics/Question_92_StringStatistics.vcxproj" Id="dde2f1e8-1f4c-4627-ab71-de39334b8b13" />
+  <Project Path="../Question_93_HiddenToken/Question_93_HiddenToken.vcxproj" Id="c8c68009-58d1-4610-b62c-2fec7ed16c6a" />
+  <Project Path="../Question_94_StringStartPosition/Question_94_StringStartPosition.vcxproj" Id="d6cfcfd2-7f3d-49ec-a767-b6523fe6d181" />
+  <Project Path="../Question_95_LongestWord/Question_95_LongestWord.vcxproj" Id="21ac66ff-26ec-41c2-8e32-e6a403febb21" />
+  <Project Path="../Question_96_Scholarship/Question_96_Scholarship.vcxproj" Id="d6a6892f-1eb7-4eab-a625-5bafcfedba6a" />
+  <Project Path="../Question_97_ParlindromicAndBinary/Question_97_ParlindromicAndBinary.vcxproj" Id="bd589244-9a2c-4d92-b6c7-7b9bf60f792f" />
+  <Project Path="../Question_98_IntegerAdder/Question_98_IntegerAdder.vcxproj" Id="92930f0f-abde-4b9b-999c-ac1e1a7203a8" />
+  <Project Path="../Question_99_ConstructAnArray/Question_99_ConstructAnArray.vcxproj" Id="5374188d-8087-40cf-9b6c-10a1cd67757f" />
   <Project Path="../TempTestCodes/TempTestCodes.vcxproj" Id="ab2f9321-889f-44d3-b64d-39280c583e2a" />
   <Project Path="Question_10_TimePlus.vcxproj" Id="47af9aab-0c36-40fa-8e29-e9775708ec2c" />
 </Solution>
