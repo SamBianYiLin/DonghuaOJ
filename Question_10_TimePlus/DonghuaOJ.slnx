@@ -8,6 +8,20 @@
   <Project Path="../Question_102_TranslateStringPassword/Question_102_TranslateStringPassword.vcxproj" Id="f63b3050-5886-4562-95ee-530ba63e1427" />
   <Project Path="../Question_103_SplitNumberSeqAndSort/Question_103_SplitNumberSeqAndSort.vcxproj" Id="b8f4fbc5-2e2f-4678-8f5c-217796d37f17" />
   <Project Path="../Question_104_IsAequalsB/Question_104_IsAequalsB.vcxproj" Id="55b68d5e-a026-461f-85bf-447f3c64eef5" />
+  <Project Path="../Question_105_PalindromicGenaratedByCow/Question_105_PalindromicGenaratedByCow.vcxproj" Id="def34b10-ade5-441b-961c-eb855a935788" />
+  <Project Path="../Question_106_LargeIntPlus/Question_106_LargeIntPlus.vcxproj" Id="503642f6-c149-4afb-b774-1dd4c705e275" />
+  <Project Path="../Question_107_HexAdd/Question_107_HexAdd.vcxproj" Id="8068e179-f5fb-4de1-8b3a-7cd9a8bfd4e9" />
+  <Project Path="../Question_108_PurePrime_2/Question_108_PurePrime_2.vcxproj" Id="ad7d550a-f183-4784-a4fd-c4e265a584f8" />
+  <Project Path="../Question_109_LargeRealNumAdd/Question_109_LargeRealNumAdd.vcxproj" Id="7ddff7aa-d97e-4129-a396-81f08bfda659" />
+  <Project Path="../Question_110_SortGrades/Question_110_SortGrades.vcxproj" Id="8f875d71-5910-4c97-9064-00b5f3aebd11" />
+  <Project Path="../Question_111_CountTicketsCount/Question_111_CountTicketsCount.vcxproj" Id="b3a287df-6bd2-4cc6-bf2b-110a63b9a049" />
+  <Project Path="../Question_112_CountLetterFrequency/Question_112_CountLetterFrequency.vcxproj" Id="b18a5a14-d768-4a6a-a6d7-fb86b16540b4" />
+  <Project Path="../Question_113_StudentInfromation/Question_113_StudentInfromation.vcxproj" Id="1bcc1d01-1ce9-449a-906a-102e61da7c14" />
+  <Project Path="../Question_114_GradesStatistic/Question_114_GradesStatistic.vcxproj" Id="6f8e5f8b-0f03-46b3-828f-396c675a7b61" />
+  <Project Path="../Question_115_SellMotorCycle/Question_115_SellMotorCycle.vcxproj" Id="8ecb4c91-bcee-4e80-818d-c3ddfdc40608" />
+  <Project Path="../Question_117_PokerCard/Question_117_PokerCard.vcxproj" Id="af831e4e-eb91-4ce8-a425-c226a8bee7a7" />
+  <Project Path="../Question_118_MixMilk/Question_118_MixMilk.vcxproj" Id="6815216b-8be8-4867-99fa-848faad42397" />
+  <Project Path="../Question_119_ShoppingInMall/Question_119_ShoppingInMall.vcxproj" Id="33181c80-8620-46a3-8001-9cb458931d4c" />
   <Project Path="../Question_13_FactNumOf5/Question_13_FactNumOf5.vcxproj" Id="d16648eb-12f8-499c-8800-a3a82598f150" />
   <Project Path="../Question_14_StrangeNumber/Question_14_StrangeNumber.vcxproj" Id="7e97b162-91c5-4c75-bd73-4259295dd864" />
   <Project Path="../Question_15_ABCNumber/Question_15_ABCNumber.vcxproj" Id="da7f29bd-c585-4757-90eb-cf9154790ebd" />
