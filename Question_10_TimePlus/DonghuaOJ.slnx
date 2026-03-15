@@ -21,7 +21,19 @@
   <Project Path="../Question_115_SellMotorCycle/Question_115_SellMotorCycle.vcxproj" Id="8ecb4c91-bcee-4e80-818d-c3ddfdc40608" />
   <Project Path="../Question_117_PokerCard/Question_117_PokerCard.vcxproj" Id="af831e4e-eb91-4ce8-a425-c226a8bee7a7" />
   <Project Path="../Question_118_MixMilk/Question_118_MixMilk.vcxproj" Id="6815216b-8be8-4867-99fa-848faad42397" />
+  <Project Path="../Question_119_FarmerMilking/Question_119_FarmerMilking.vcxproj" Id="ea43ff2f-df4a-48f1-b4b4-00f18076ae85" />
   <Project Path="../Question_119_ShoppingInMall/Question_119_ShoppingInMall.vcxproj" Id="33181c80-8620-46a3-8001-9cb458931d4c" />
+  <Project Path="../Question_120_SequenceOfFraction/Question_120_SequenceOfFraction.vcxproj" Id="cfcc9d08-0cce-467e-841a-3f146df9e634" />
+  <Project Path="../Question_121_HandOutCandy/Question_121_HandOutCandy.vcxproj" Id="51f455de-a17c-4ac3-915c-26e7c19dd479" />
+  <Project Path="../Question_122_CircleNumber/Question_122_CircleNumber.vcxproj" Id="fcd08661-b42a-465e-8cee-b3c2a1333e3d" />
+  <Project Path="../Question_123_BoardGame/Question_123_BoardGame.vcxproj" Id="8604c071-10a5-4bd8-822b-a47e5d16cdec" />
+  <Project Path="../Question_124_FractionToFloat/Question_124_FractionToFloat.vcxproj" Id="92bfa346-2e34-4703-b800-39500181a68f" />
+  <Project Path="../Question_125_MirroredAndPalidromeString/Question_125_MirroredAndPalidromeString.vcxproj" Id="64433721-6945-41a6-89f0-585a77f00342" />
+  <Project Path="../Question_126_NumberArray2/Question_126_NumberArray2.vcxproj" Id="c7c39ee5-732b-4177-b0d9-33a4f6ae2d76" />
+  <Project Path="../Question_127_HighDimensionPurePrime/Question_127_HighDimensionPurePrime.vcxproj" Id="c0b2d044-69e8-4fd2-8efa-d77fa3792632" />
+  <Project Path="../Question_128_MthStepOfHanoi/Question_128_MthStepOfHanoi.vcxproj" Id="8228b58c-eecb-4552-9cfa-2adef92eca36" />
+  <Project Path="../Question_129_NumberGame/Question_129_NumberGame.vcxproj" Id="d8fecb98-cf96-4c2b-86bd-ee7f32c96325" />
+  <Project Path="../Question_130_2nQueenQuestion/Question_130_2nQueenQuestion.vcxproj" Id="4baadb41-a49a-4ca3-9514-5d3ef3cfdba7" />
   <Project Path="../Question_13_FactNumOf5/Question_13_FactNumOf5.vcxproj" Id="d16648eb-12f8-499c-8800-a3a82598f150" />
   <Project Path="../Question_14_StrangeNumber/Question_14_StrangeNumber.vcxproj" Id="7e97b162-91c5-4c75-bd73-4259295dd864" />
   <Project Path="../Question_15_ABCNumber/Question_15_ABCNumber.vcxproj" Id="da7f29bd-c585-4757-90eb-cf9154790ebd" />

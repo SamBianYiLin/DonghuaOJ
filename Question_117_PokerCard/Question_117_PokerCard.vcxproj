@@ -24,6 +24,7 @@
     <ProjectGuid>{af831e4e-eb91-4ce8-a425-c226a8bee7a7}</ProjectGuid>
     <RootNamespace>Question117PokerCard</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Question_116_PokerCard</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

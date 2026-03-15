@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{6815216b-8be8-4867-99fa-848faad42397}</ProjectGuid>
-    <RootNamespace>Question118MixMilk</RootNamespace>
+    <ProjectGuid>{64433721-6945-41a6-89f0-585a77f00342}</ProjectGuid>
+    <RootNamespace>Question125MirroredAndPalidromeString</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Question_117_MixMilk</ProjectName>
+    <ProjectName>Question_125_MirroredAndPalindromeString</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="MixMilk.cpp" />
+    <ClCompile Include="MirroredAndPalindrome.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
