@@ -65,6 +65,8 @@ void dfsWhite(int row) {
 		return;
 	}
 	for (int col = 0; col < n; col++){
+		if (chessboard[row][col] == 0)	return;
+		if (blackPos[row] == col)	return;
 
 	}
 }
