@@ -65,15 +65,63 @@ void dfsWhite(int row) {
 		return;
 	}
 	for (int col = 0; col < n; col++){
-		if (chessboard[row][col] == 0)	return;
-		if (blackPos[row] == col)	return;
+		//	棋盘当前位置应当可以放置皇后
+		if (chessboard[row][col] == 0)	continue;
+		//	黑白皇后不能发生冲突————不在同一棋盘格内
+		if (blackPos[row] == col)	continue;
 
+		//	白皇后之间不能发生冲突————上下左右与主副对角线
+		if (whiteCol[col])	continue;
+		if (whiteDiag1[row - col + n])	continue;
+		if (whiteDiag2[row + col])	continue;
+
+		//	尝试将该列加入序列
+		whiteCol[col] = true;
+		whiteDiag1[row - col + n] = true;
+		whiteDiag2[row + col] = true;
+
+		dfsWhite(row + 1);
+
+		whiteCol[col] = false;
+		whiteDiag1[row - col + n] = false;
+		whiteDiag2[row + col] = false;
+	}
+}
+
+void dfsBlack(int row) {
+	//	枚举完所有的黑皇后，再枚举白皇后
+	if (row == n) {
+		dfsWhite(0);
+		return;
+	}
+	for (int col = 0; col < n; col++) {
+		//	棋盘当前位置应当可以放置皇后
+		if (chessboard[row][col] == 0)	continue;
+
+		//	黑皇后之间不能发生冲突————上下左右与主副对角线
+		if (blackCol[col])	continue;
+		if (blackDiag1[row - col + n])	continue;
+		if (blackDiag2[row + col])	continue;
+
+		//	尝试将该列加入序列
+		blackCol[col] = true;
+		blackDiag1[row - col + n] = true;
+		blackDiag2[row + col] = true;
+		blackPos[row] = col;	//	把当前黑皇后的坐标信息传入
+
+		dfsBlack(row + 1);
+
+		blackCol[col] = false;
+		blackDiag1[row - col + n] = false;
+		blackDiag2[row + col] = false;
+		blackPos[row] = -1;		//	把当前黑皇后的坐标信息重置
 	}
 }
 
 int main() {
-	int n;
 	scanf("%d", &n);
+	chessboard.resize(n,vector<int>(n));
+	blackPos.resize(n,-1);
 	for (int i = 0; i < n; i++)
 	{
 		for (int j = 0; j < n; j++)
@@ -81,6 +129,7 @@ int main() {
 			scanf("%d", &chessboard[i][j]);
 		}
 	}
-
+	dfsBlack(0);
+	printf("%d\n", counter);
 	return 0;
 }

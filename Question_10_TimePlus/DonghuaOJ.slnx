@@ -34,6 +34,11 @@
   <Project Path="../Question_128_MthStepOfHanoi/Question_128_MthStepOfHanoi.vcxproj" Id="8228b58c-eecb-4552-9cfa-2adef92eca36" />
   <Project Path="../Question_129_NumberGame/Question_129_NumberGame.vcxproj" Id="d8fecb98-cf96-4c2b-86bd-ee7f32c96325" />
   <Project Path="../Question_130_2nQueenQuestion/Question_130_2nQueenQuestion.vcxproj" Id="4baadb41-a49a-4ca3-9514-5d3ef3cfdba7" />
+  <Project Path="../Question_131_EightQueen_Change/Question_131_EightQueen_Change.vcxproj" Id="83e91fb2-b227-48bf-9279-ca58dcb8d7e4" />
+  <Project Path="../Question_132_ChessboardPolynomials/Question_132_ChessboardPolynomials.vcxproj" Id="3627ca41-d642-4ca1-a6c1-baf915716f5f" />
+  <Project Path="../Question_133_FJString/Question_133_FJString.vcxproj" Id="34a45327-5969-4639-ac99-45226bf45ea2" />
+  <Project Path="../Question_134_RankingPredict/Question_134_RankingPredict.vcxproj" Id="0df7bf1c-83c7-4922-a9ed-f1fdc5cca576" />
+  <Project Path="../Question_135_ChipTest/Question_135_ChipTest.vcxproj" Id="e3063293-d0ad-4e0d-b32c-363da179ea68" />
   <Project Path="../Question_13_FactNumOf5/Question_13_FactNumOf5.vcxproj" Id="d16648eb-12f8-499c-8800-a3a82598f150" />
   <Project Path="../Question_14_StrangeNumber/Question_14_StrangeNumber.vcxproj" Id="7e97b162-91c5-4c75-bd73-4259295dd864" />
   <Project Path="../Question_15_ABCNumber/Question_15_ABCNumber.vcxproj" Id="da7f29bd-c585-4757-90eb-cf9154790ebd" />
